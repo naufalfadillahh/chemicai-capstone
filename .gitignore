@@ -5,3 +5,5 @@ __pycache__/
 .env
 .env.*
 .vercel
+!Frontend/.env.production
+.vercel
